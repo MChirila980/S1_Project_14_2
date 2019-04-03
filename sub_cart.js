@@ -5,8 +5,8 @@
    Tutorial 12
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Melinda Chirila
+   Date:   4/3/2019
 
    Filename: sub_cart.js
 
